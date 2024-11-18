@@ -248,9 +248,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Christos Kaltsas - me@christoskaltsas.com
-
-Project Link: [https://github.com/bQqqr/laboratoritator](https://github.com/bQqqr/laboratoritator)
+Christos Kaltsas
+Project Link: [https://github.com/xcalts/laboratoritator](https://github.com/bQqqr/laboratoritator)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
