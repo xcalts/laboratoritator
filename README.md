@@ -54,9 +54,6 @@
     <li>
       <a href="#license">License</a>
     </li>
-    <li>
-      <a href="#contact">Contact</a>
-    </li>
   </ol>
 </details>
 
@@ -240,16 +237,6 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Christos Kaltsas
-Project Link: [https://github.com/xcalts/laboratoritator](https://github.com/bQqqr/laboratoritator)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
